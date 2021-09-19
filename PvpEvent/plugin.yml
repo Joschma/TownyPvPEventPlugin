@@ -1,0 +1,10 @@
+name : PvpEvent
+version : 1.0
+author : joschma
+main : fr.joschma.PvpEvent.PvpEvent
+api-version: 1.13
+
+commands:
+  pvpevent:
+    description: All the commands for the plugin PvpEvent
+    permission: PvpEvent.admin

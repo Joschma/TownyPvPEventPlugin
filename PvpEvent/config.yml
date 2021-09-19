@@ -1,0 +1,26 @@
+Msg:
+  StartEvent: The event has started
+  EndEvent: The event has endded
+BegginTime: 
+- '1:05'
+- '10:50'
+RequireOnline: 2
+NumberOfTeamToShowOnTheScoreboard: 5
+EventTime: 3600
+NumberOfTeamToGiveReward: 5
+Winner:
+  '1':
+    Reward:
+    - 'say %player% you finished at place %place%'
+  '2':
+    Reward:
+    - 'say %player% you finished at place %place%'
+  '3':
+    Reward:
+    - 'say %player% you finished at place %place%'
+  '4':
+    Reward:
+    - 'say %player% you finished at place %place%'
+  '5':
+    Reward:
+    - 'say %player% you finished at place %place%'
